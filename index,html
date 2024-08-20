@@ -1,1 +1,102 @@
+<html lang="pt-br">
 
+<head>
+
+    <link rel="stylesheet" href="styles.css" />
+
+
+    <title>Uni Footbol</title>
+</head>
+
+
+
+
+
+
+<body>
+
+
+    <header>Uni Footbol</header>
+
+    <section>
+        <div class="chamada-texto">
+            <h2>Melhores Momentos de Jogadores</h2>
+
+
+        </div>
+
+
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eE1NEt7jyA4?si=2V5JgnW2PQj_VY2J"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/xkB-WkRzhD8?si=e5YmI8UwpL2QHGJm"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eNq-Q73ilk0?si=lJGfFw4dwJhDeOPw"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+
+    </section>
+
+    <section>
+
+
+        <div>
+
+            <h2> Imagens dos Jogadores </h2>
+            <section>
+                <p>Top 1 Jogador</p>
+
+                <a href=https://www.diariodocentrodomundo.com.br/wp-content/uploads/2023/10/1697904004853_259a6ac8-1ab4-460f-8934-13b595d05000.jpg> <img src="https://neofeed.com.br/wp-content/uploads/2021/08/messi-barcelona.jpg" alt=""> 
+                    <img src="https://www.diariodocentrodomundo.com.br/wp-content/uploads/2023/10/1697904004853_259a6ac8-1ab4-460f-8934-13b595d05000.jpg">
+                    
+                </a>
+                <p>Vinicius Gentileza</p>
+
+                <a
+                    href="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/vinicius-junior-hat-trick-real-madrid-barcelona-e1705265604705.jpeg?w=1080&h=607&crop=1&quality=50"> <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/vinicius-junior-hat-trick-real-madrid-barcelona-e1705265604705.jpeg?w=1080&h=607&crop=1&quality=50" alt="">
+                    <img
+                        src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/Endrick-marca-Bobby-Charlton-em-montagem-que-viralizou-na-internet-e1723574391676.jpeg?w=522&h=294&crop=1&quality=50">
+                </a>
+                <p>Neylindo</p>
+
+                <a
+                    href="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/extra-globo-com/incoming/18393349-168-d5d/w640h360-PROP/neymar-rodeado-1.jpg">
+                    <img
+                        src="https://s3.glbimg.com/v1/AUTH_35862ca5c6ab48b992baf1f1b4f7062e/extra-globo-com/incoming/18393349-168-d5d/w640h360-PROP/neymar-rodeado-1.jpg">
+                </a>
+
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+    </section>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
